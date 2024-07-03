@@ -1,0 +1,34 @@
+/* div {
+    background: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+
+    /* border-width: 5px;
+    border-color: black;
+    border-style: solid; */
+    /* border-style: dashed; */
+    /* border: 5px solid black; */
+    /* border-top: 5px;
+    border-left: 3px;
+    border-bottom: 4px;
+    border-right: 2px; */
+    /* border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: aqua; */
+    /* border-radius: 4px; *//* Propiedad que funciona aparte */ 
+
+body {
+    background-color: black;
+}
+
+
+input {
+    margin: 5px;
+    padding: 6px 9px;
+    border: none;
+    border-bottom: 1px solid rgb(30, 230, 16);
+    background: transparent;
+    color: chartreuse;
+    border-radius: 3px;
+}
