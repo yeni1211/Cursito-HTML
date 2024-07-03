@@ -14,7 +14,7 @@ body {
 
     /* Con esta otra dorma nos podemos ahorrar lineas de codigo que funciona exactamente igual */
 
-    /* background-image: url("https://yt3.googleusercontent.com/jHpWdf9qWNdrCjxfQxCxR0aiYY9Y1IO7s6Jwlk-OgKxS8nzjEMffakE6mdOdp2u22R3130U0nQ=s900-c-k-c0x00ffffff-no-rj"); top / cover fixed #79ec1b*/ 
+    /* background-image: url("https://yt3.googleusercontent.com/jHpWdf9qWNdrCjxfQxCxR0aiYY9Y1IO7s6Jwlk-OgKxS8nzjEMffakE6mdOdp2u22R3130U0nQ=s900-c-k-c0x00ffffff-no-rj") top / cover fixed #79ec1b;*/ 
 
 
     /* background-size: contain; */
@@ -28,7 +28,7 @@ body {
 
 .opaco{
     height: 100%;
-    width: 100%;
+    /* width: 100%; */
     background-color: #000a;
 }
 
