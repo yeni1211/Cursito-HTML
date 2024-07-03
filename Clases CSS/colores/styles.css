@@ -1,0 +1,9 @@
+.box {
+    width: 100px;
+    height: 100px;
+    /* background: rgb(45, 88, 69); */
+    /* background: #0f0; */
+    /* background: #f80; */
+    background: #0bdf;/* el cuarto valor es para definir la opacidad */
+    margin: 20px;
+}
